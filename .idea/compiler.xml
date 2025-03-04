@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="metax-api-system" />
+        <module name="metax-common-redis" />
+        <module name="metax-common-seata" />
+        <module name="metax-common-log" />
+        <module name="metax-monitor" />
+        <module name="metax-common-datascope" />
+        <module name="metax-file" />
+        <module name="metax-gateway" />
+        <module name="metax-common-security" />
+        <module name="metax-auth" />
+        <module name="metax-gen" />
+        <module name="metax-common-datasource" />
+        <module name="metax-common-swagger" />
+        <module name="metax-system" />
+        <module name="metax-web" />
+        <module name="metax-common-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="metax-modules-file" target="1.8" />
+      <module name="metax-modules-gen" target="1.8" />
+      <module name="metax-modules-system" target="1.8" />
+      <module name="metax-visual-monitor" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

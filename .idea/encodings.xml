@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/metax-api/metax-api-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-api/metax-api-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-datascope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-datascope/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-datasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-datasource/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-seata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-seata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/metax-common-swagger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-modules/metax-file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-modules/metax-file/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-modules/metax-gen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-modules/metax-gen/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-modules/metax-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-modules/metax-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-modules/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-modules/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-visual/metax-monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-visual/metax-monitor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-visual/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-visual/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metax-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/metax.iml" filepath="$PROJECT_DIR$/metax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-api/metax-api.iml" filepath="$PROJECT_DIR$/metax-api/metax-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-api/metax-api-system/metax-api-system.iml" filepath="$PROJECT_DIR$/metax-api/metax-api-system/metax-api-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-auth/metax-auth.iml" filepath="$PROJECT_DIR$/metax-auth/metax-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-common/metax-common.iml" filepath="$PROJECT_DIR$/metax-common/metax-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-common/metax-common-core/metax-common-core.iml" filepath="$PROJECT_DIR$/metax-common/metax-common-core/metax-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-common/metax-common-datascope/metax-common-datascope.iml" filepath="$PROJECT_DIR$/metax-common/metax-common-datascope/metax-common-datascope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-common/metax-common-datasource/metax-common-datasource.iml" filepath="$PROJECT_DIR$/metax-common/metax-common-datasource/metax-common-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-common/metax-common-log/metax-common-log.iml" filepath="$PROJECT_DIR$/metax-common/metax-common-log/metax-common-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-common/metax-common-redis/metax-common-redis.iml" filepath="$PROJECT_DIR$/metax-common/metax-common-redis/metax-common-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-common/metax-common-seata/metax-common-seata.iml" filepath="$PROJECT_DIR$/metax-common/metax-common-seata/metax-common-seata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-common/metax-common-security/metax-common-security.iml" filepath="$PROJECT_DIR$/metax-common/metax-common-security/metax-common-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-common/metax-common-swagger/metax-common-swagger.iml" filepath="$PROJECT_DIR$/metax-common/metax-common-swagger/metax-common-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-gateway/metax-gateway.iml" filepath="$PROJECT_DIR$/metax-gateway/metax-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-modules/metax-modules.iml" filepath="$PROJECT_DIR$/metax-modules/metax-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-visual/metax-visual.iml" filepath="$PROJECT_DIR$/metax-visual/metax-visual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metax-web/metax-web.iml" filepath="$PROJECT_DIR$/metax-web/metax-web.iml" />
+    </modules>
+  </component>
+</project>
