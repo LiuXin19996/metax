@@ -22,8 +22,8 @@ public class RedissonConfig {
     @Value("${spring.redis.port}")
     private String redisPort;
 
-    @Value("${spring.redis.auth}")
-    private String auth;
+    @Value("${spring.redis.password}")
+    private String password;
 
 
     @Bean
@@ -32,7 +32,7 @@ public class RedissonConfig {
         Config config = new Config();
         //设置配置信息
         String address = "redis://"+redisHost+":"+redisPort;
-        config.useSingleServer().setAddress(address);
+        config.useSingleServer().setAddress(address).setPassword(password);
         //创建RedissonClient对象
         return Redisson.create(config);
     }

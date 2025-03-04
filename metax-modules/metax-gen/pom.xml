@@ -9,10 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>metax-modules-gen</artifactId>
+    <artifactId>metax-gen</artifactId>
 
     <description>
-        metax-modules-gen代码生成
+        metax-gen代码生成
     </description>
 
     <dependencies>

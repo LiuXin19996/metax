@@ -11,7 +11,6 @@ import com.metax.file.utils.FileUploadUtils;
  * 
  * @author ruoyi
  */
-@Primary
 @Service
 public class LocalSysFileServiceImpl implements ISysFileService
 {

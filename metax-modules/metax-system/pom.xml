@@ -9,10 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 	
-    <artifactId>metax-modules-system</artifactId>
+    <artifactId>metax-system</artifactId>
 
     <description>
-        metax-modules-system系统模块
+        metax-system系统模块
     </description>
 	
     <dependencies>

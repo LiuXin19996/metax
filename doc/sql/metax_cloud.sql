@@ -1,10 +1,10 @@
 /*
  Navicat Premium Data Transfer
 
- Source Server         : 192.168.1.100mysql
+ Source Server         : 192.168.9.100mysql
  Source Server Type    : MySQL
  Source Server Version : 50743
- Source Host           : 192.168.1.100:3306
+ Source Host           : 192.168.9.100:3306
  Source Schema         : metax_cloud
 
  Target Server Type    : MySQL
@@ -516,7 +516,7 @@ INSERT INTO `sys_menu` VALUES (107, '通知公告', 1, 8, 'notice', 'system/noti
 INSERT INTO `sys_menu` VALUES (108, '日志管理', 1, 0, 'log', '', '', 1, 0, 'M', '0', '0', '', 'log', 'admin', '2023-09-02 11:45:56', 'admin', '2023-11-20 20:34:54', '日志管理菜单');
 INSERT INTO `sys_menu` VALUES (109, '在线用户', 1, 1, 'online', 'monitor/online/index', '', 1, 0, 'C', '0', '0', 'monitor:online:list', 'online', 'admin', '2023-09-02 11:45:56', 'admin', '2023-11-20 21:36:36', '在线用户菜单');
 INSERT INTO `sys_menu` VALUES (111, '系统流量控制台', 2, 3, 'http://localhost:8090', '', '', 0, 0, 'C', '0', '0', 'monitor:sentinel:list', 'sentinel', 'admin', '2023-09-02 11:45:56', 'admin', '2023-11-18 13:24:41', '流量控制菜单');
-INSERT INTO `sys_menu` VALUES (112, '系统服务控制台', 2, 4, 'http://192.168.1.100:8848/nacos', '', '', 0, 0, 'C', '0', '0', 'monitor:nacos:list', 'nacos', 'admin', '2023-09-02 11:45:56', 'admin', '2023-11-09 21:57:22', '服务治理菜单');
+INSERT INTO `sys_menu` VALUES (112, '系统服务控制台', 2, 4, 'http://192.168.9.100:8848/nacos', '', '', 0, 0, 'C', '0', '0', 'monitor:nacos:list', 'nacos', 'admin', '2023-09-02 11:45:56', 'admin', '2023-11-09 21:57:22', '服务治理菜单');
 INSERT INTO `sys_menu` VALUES (113, '系统状态控制台', 2, 5, 'http://localhost:9100/login', '', '', 0, 0, 'C', '0', '0', 'monitor:server:list', 'springBootAdmin', 'admin', '2023-09-02 11:45:56', 'admin', '2023-11-09 22:00:01', '服务监控菜单');
 INSERT INTO `sys_menu` VALUES (114, '表单构建', 3, 1, 'build', 'tool/build/index', '', 1, 0, 'C', '0', '0', 'tool:build:list', 'build', 'admin', '2023-09-02 11:45:56', '', NULL, '表单构建菜单');
 INSERT INTO `sys_menu` VALUES (115, '代码生成', 3, 2, 'gen', 'tool/gen/index', '', 1, 0, 'C', '0', '0', 'tool:gen:list', 'code', 'admin', '2023-09-02 11:45:56', '', NULL, '代码生成菜单');
@@ -615,7 +615,7 @@ INSERT INTO `sys_menu` VALUES (2063, '模板审核删除', 2059, 4, '#', '', NUL
 INSERT INTO `sys_menu` VALUES (2064, '模板审核导出', 2059, 5, '#', '', NULL, 1, 0, 'F', '0', '0', 'web:message_template_audit:export', '#', 'admin', '2023-10-17 15:29:24', '', NULL, '');
 INSERT INTO `sys_menu` VALUES (2065, '接受者链路追踪', 2058, 2, 'receiver_records', 'web/receiver_records/index', NULL, 1, 0, 'C', '0', '0', 'web:receiver_records:list', 'peoples', 'admin', '2023-10-19 09:14:56', 'admin', '2023-10-19 10:47:58', '');
 INSERT INTO `sys_menu` VALUES (2066, '渠道管理', 0, 2, 'sendChannel', NULL, NULL, 1, 0, 'M', '0', '0', '', '渠道', 'admin', '2023-10-19 10:53:51', 'admin', '2023-11-01 00:56:54', '');
-INSERT INTO `sys_menu` VALUES (2067, 'RabbitMQ控制台', 2, 3, 'http://192.168.1.100:15672', NULL, NULL, 0, 0, 'C', '0', '0', 'monitor:rabbitmq:list', 'rabbitmq', 'admin', '2023-10-19 13:19:56', 'admin', '2023-10-19 13:21:43', '');
+INSERT INTO `sys_menu` VALUES (2067, 'RabbitMQ控制台', 2, 3, 'http://192.168.9.100:15672', NULL, NULL, 0, 0, 'C', '0', '0', 'monitor:rabbitmq:list', 'rabbitmq', 'admin', '2023-10-19 13:19:56', 'admin', '2023-10-19 13:21:43', '');
 INSERT INTO `sys_menu` VALUES (2068, '定时任务调度中心', 2, 4, 'http://localhost:8880/xxl-job-admin', NULL, NULL, 0, 0, 'C', '0', '0', 'monitor:xxl-job:list', 'xxl-job', 'admin', '2023-10-19 13:23:04', 'admin', '2023-11-09 21:56:40', '');
 INSERT INTO `sys_menu` VALUES (2069, '短信回执', 0, 4, 'sms_records', NULL, NULL, 1, 0, 'M', '0', '0', '', '短信营销-群发短信', 'admin', '2023-10-30 16:58:13', 'admin', '2023-11-09 16:01:57', '');
 INSERT INTO `sys_menu` VALUES (2070, '回执拉取(保留30天)', 2069, 0, 'sms_records', 'web/sms_records/index', NULL, 1, 0, 'C', '0', '0', 'web:sms_records:list', '重新拉取', 'admin', '2023-10-30 17:08:59', 'admin', '2023-11-01 14:54:25', '');
